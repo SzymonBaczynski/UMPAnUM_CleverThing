@@ -1,4 +1,4 @@
-# Embedded PlatformIO Code for ESP32
+# Embedded code for ESP32 - CleverThing device.
 
 This repository contains the code written in for the ESP32 microcontroller. The code is designed to run on an ESP32 development board and perform communication with the MQTT server. 
 
